@@ -1,5 +1,5 @@
-mkdir "GCD и LCM"
-touch "GCD и LCM"/main.cpp
-mkdir "Градусы по фаренгейту"
-touch "Градусы по фаренгейту"/main.cpp
+mkdir "Элемент последовательности"
+touch "Элемент последовательности"/main.cpp
+mkdir "Двойной факториал"
+touch "Двойной факториал"/main.cpp
 
