@@ -1,8 +1,5 @@
-mkdir "Стройся!"
-touch "Стройся!"/main.cpp
-mkdir "Второй раз"
-touch "Второй раз"/main.cpp
-mkdir "Похожие массивы"
-touch "Похожие массивы"/main.cpp
-mkdir "Разные"
-touch "Разные"/main.cpp
+mkdir "Создание пар"
+touch "Создание пар"/main.cpp
+mkdir "Остатки"
+touch "Остатки"/main.cpp
+
