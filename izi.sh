@@ -1,5 +1,5 @@
-mkdir "Создание пар"
-touch "Создание пар"/main.cpp
-mkdir "Остатки"
-touch "Остатки"/main.cpp
+mkdir "Квадрат наоборот"
+touch "Квадрат наоборот"/main.cpp
+mkdir "Найти Х справа"
+touch "Найти Х справа"/main.cpp
 
