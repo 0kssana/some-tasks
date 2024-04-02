@@ -1,0 +1,13 @@
+/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug/CMakeFiles/test.dir
+/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug/external/doctest/CMakeFiles/doctest.dir
+/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug/external/doctest/CMakeFiles/test.dir
+/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug/external/doctest/CMakeFiles/edit_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug/external/doctest/CMakeFiles/rebuild_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug/merge-sort/CMakeFiles/merge-sort-test.dir
+/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug/merge-sort/CMakeFiles/cloud-test.dir
+/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug/merge-sort/CMakeFiles/merge-sort.dir
+/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug/merge-sort/CMakeFiles/test.dir
+/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug/merge-sort/CMakeFiles/edit_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug/merge-sort/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,133 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "external/doctest",
+					"jsonFile" : "directory-external.doctest-Debug-2595faa3d07164a12e83.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "external/doctest",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "merge-sort",
+					"jsonFile" : "directory-merge-sort-Debug-d014580bcd982a20e2e9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "merge-sort",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						2
+					],
+					"name" : "MergeSort",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "doctest",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "cloud-test::@b06f05b6095166eb2344",
+					"jsonFile" : "target-cloud-test-Debug-2403ebe5c9c2e971b351.json",
+					"name" : "cloud-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "doctest::@dd360341bad613a1a6b7",
+					"jsonFile" : "target-doctest-Debug-967584b0ea4de8fbe7a0.json",
+					"name" : "doctest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "merge-sort::@b06f05b6095166eb2344",
+					"jsonFile" : "target-merge-sort-Debug-228f23032efbde226413.json",
+					"name" : "merge-sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "merge-sort-test::@b06f05b6095166eb2344",
+					"jsonFile" : "target-merge-sort-test-Debug-22096e26c6259383c896.json",
+					"name" : "merge-sort-test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug",
+		"source" : "/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

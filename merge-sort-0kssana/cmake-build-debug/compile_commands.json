@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/external/doctest -g -std=gnu++11 -fdiagnostics-color=always -o external/doctest/CMakeFiles/doctest.dir/doctest.cpp.o -c /home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/external/doctest/doctest.cpp",
+  "file": "/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/external/doctest/doctest.cpp",
+  "output": "external/doctest/CMakeFiles/doctest.dir/doctest.cpp.o"
+},
+{
+  "directory": "/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/external/doctest -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -o merge-sort/CMakeFiles/merge-sort-test.dir/merge-sort.cpp.o -c /home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/merge-sort/merge-sort.cpp",
+  "file": "/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/merge-sort/merge-sort.cpp",
+  "output": "merge-sort/CMakeFiles/merge-sort-test.dir/merge-sort.cpp.o"
+},
+{
+  "directory": "/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/external/doctest -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -o merge-sort/CMakeFiles/merge-sort-test.dir/test.cpp.o -c /home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/merge-sort/test.cpp",
+  "file": "/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/merge-sort/test.cpp",
+  "output": "merge-sort/CMakeFiles/merge-sort-test.dir/test.cpp.o"
+},
+{
+  "directory": "/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -o merge-sort/CMakeFiles/merge-sort.dir/merge-sort.cpp.o -c /home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/merge-sort/merge-sort.cpp",
+  "file": "/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/merge-sort/merge-sort.cpp",
+  "output": "merge-sort/CMakeFiles/merge-sort.dir/merge-sort.cpp.o"
+},
+{
+  "directory": "/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -o merge-sort/CMakeFiles/merge-sort.dir/main.cpp.o -c /home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/merge-sort/main.cpp",
+  "file": "/home/oksana/Desktop/programming/cpp/dz/merge-sort-0kssana/merge-sort/main.cpp",
+  "output": "merge-sort/CMakeFiles/merge-sort.dir/main.cpp.o"
+}
+]

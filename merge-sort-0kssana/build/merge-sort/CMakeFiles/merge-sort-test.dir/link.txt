@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -DNDEBUG "CMakeFiles/merge-sort-test.dir/merge-sort.cpp.o" "CMakeFiles/merge-sort-test.dir/test.cpp.o" -o merge-sort-test  ../external/doctest/libdoctest.a 
