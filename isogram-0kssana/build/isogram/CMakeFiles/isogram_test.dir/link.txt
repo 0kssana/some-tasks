@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -DNDEBUG CMakeFiles/isogram_test.dir/isogram.cpp.o CMakeFiles/isogram_test.dir/isogram_test.cpp.o -o isogram_test  ../external/doctest/libdoctest.a 

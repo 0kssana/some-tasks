@@ -1,0 +1,13 @@
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/build/CMakeFiles/test.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/build/CMakeFiles/edit_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/build/CMakeFiles/rebuild_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/build/external/doctest/CMakeFiles/doctest.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/build/external/doctest/CMakeFiles/test.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/build/external/doctest/CMakeFiles/edit_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/build/external/doctest/CMakeFiles/rebuild_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/build/isogram/CMakeFiles/isogram_test.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/build/isogram/CMakeFiles/cloud-test.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/build/isogram/CMakeFiles/isogram.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/build/isogram/CMakeFiles/test.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/build/isogram/CMakeFiles/edit_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/build/isogram/CMakeFiles/rebuild_cache.dir

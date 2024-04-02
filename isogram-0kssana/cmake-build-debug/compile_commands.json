@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/external/doctest -g -std=gnu++11 -fdiagnostics-color=always -o external/doctest/CMakeFiles/doctest.dir/doctest.cpp.o -c /home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/external/doctest/doctest.cpp",
+  "file": "/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/external/doctest/doctest.cpp",
+  "output": "external/doctest/CMakeFiles/doctest.dir/doctest.cpp.o"
+},
+{
+  "directory": "/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/external/doctest -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -o isogram/CMakeFiles/isogram_test.dir/isogram.cpp.o -c /home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/isogram/isogram.cpp",
+  "file": "/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/isogram/isogram.cpp",
+  "output": "isogram/CMakeFiles/isogram_test.dir/isogram.cpp.o"
+},
+{
+  "directory": "/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/external/doctest -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -o isogram/CMakeFiles/isogram_test.dir/isogram_test.cpp.o -c /home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/isogram/isogram_test.cpp",
+  "file": "/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/isogram/isogram_test.cpp",
+  "output": "isogram/CMakeFiles/isogram_test.dir/isogram_test.cpp.o"
+},
+{
+  "directory": "/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -o isogram/CMakeFiles/isogram.dir/isogram.cpp.o -c /home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/isogram/isogram.cpp",
+  "file": "/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/isogram/isogram.cpp",
+  "output": "isogram/CMakeFiles/isogram.dir/isogram.cpp.o"
+},
+{
+  "directory": "/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -o isogram/CMakeFiles/isogram.dir/main.cpp.o -c /home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/isogram/main.cpp",
+  "file": "/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/isogram/main.cpp",
+  "output": "isogram/CMakeFiles/isogram.dir/main.cpp.o"
+}
+]

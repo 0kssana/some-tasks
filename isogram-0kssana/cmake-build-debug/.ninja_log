@@ -1,0 +1,14 @@
+# ninja log v5
+0	393	1711889716830199359	isogram/CMakeFiles/isogram.dir/main.cpp.o	725b9fa832ec0fb0
+0	621	1711889717058199436	isogram/CMakeFiles/isogram.dir/isogram.cpp.o	4dc9961d9c099d9c
+621	683	1711889717122199458	isogram/isogram	96595b13e951f8b3
+1	525	1711889781694221923	isogram/CMakeFiles/isogram.dir/isogram.cpp.o	4dc9961d9c099d9c
+525	580	1711889781750221943	isogram/isogram	96595b13e951f8b3
+1	437	1711893428476621958	isogram/CMakeFiles/isogram.dir/isogram.cpp.o	4dc9961d9c099d9c
+437	484	1711893428520625783	isogram/isogram	96595b13e951f8b3
+1	414	1711894350263459855	isogram/CMakeFiles/isogram.dir/isogram.cpp.o	4dc9961d9c099d9c
+414	472	1711894350319457251	isogram/isogram	96595b13e951f8b3
+0	408	1711894564127552658	isogram/CMakeFiles/isogram.dir/isogram.cpp.o	4dc9961d9c099d9c
+408	461	1711894564179549400	isogram/isogram	96595b13e951f8b3
+1	479	1711894843768686985	isogram/CMakeFiles/isogram.dir/isogram.cpp.o	4dc9961d9c099d9c
+480	526	1711894843812683869	isogram/isogram	96595b13e951f8b3

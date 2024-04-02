@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+1b4e2f48c8e5c5061ad294337071187a isogram/CMakeFiles/cloud-test

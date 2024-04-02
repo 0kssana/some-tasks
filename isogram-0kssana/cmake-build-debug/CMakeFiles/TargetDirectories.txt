@@ -1,0 +1,13 @@
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug/CMakeFiles/test.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug/external/doctest/CMakeFiles/doctest.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug/external/doctest/CMakeFiles/test.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug/external/doctest/CMakeFiles/edit_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug/external/doctest/CMakeFiles/rebuild_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug/isogram/CMakeFiles/isogram_test.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug/isogram/CMakeFiles/cloud-test.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug/isogram/CMakeFiles/isogram.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug/isogram/CMakeFiles/test.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug/isogram/CMakeFiles/edit_cache.dir
+/home/oksana/Desktop/programming/cpp/dz/isogram-0kssana/cmake-build-debug/isogram/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -DNDEBUG CMakeFiles/isogram.dir/isogram.cpp.o CMakeFiles/isogram.dir/main.cpp.o -o isogram 
